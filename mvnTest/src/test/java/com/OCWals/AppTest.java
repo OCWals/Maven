@@ -1,4 +1,4 @@
-package com.OCWals.demo;
+package com.OCWals;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
