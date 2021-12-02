@@ -24,7 +24,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <apache.struts.version>2.5.10.1</apache.struts.version>
+        <apache.struts.version>2.5.22</apache.struts.version>
     </properties>
 
 
